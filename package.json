@@ -1,0 +1,14 @@
+{
+  "name": "firstgit",
+  "version": "1.0.0",
+  "description": "first git upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa-router": "^5.4.0"
+  }
+}
